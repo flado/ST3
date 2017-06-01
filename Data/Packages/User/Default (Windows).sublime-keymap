@@ -1,0 +1,6 @@
+[
+  { "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+  { "keys": ["super+shift+h"], "command": "htmlprettify" },
+  { "keys": ["ctrl+shift+j"], "command": "js_format" },
+  { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} }
+]

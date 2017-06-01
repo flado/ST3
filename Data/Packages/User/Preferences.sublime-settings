@@ -1,0 +1,109 @@
+{
+	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		".cache/**",
+		"node_modules/",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".idea",
+		"target",
+		".git",
+		".hg",
+		"CVS",
+		".meteor",
+		"VagrantBoxes",
+		".vagrant",
+		"packer_cache",
+		".node-repository"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"index_exclude_patterns":
+	[
+		".meteor/*",
+		".idea/*",
+		"target/*",
+		"*.log"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"save_on_focus_lost": true,
+	"smart_indent": true,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"material_theme_accent_lime": true,
+	"material_theme_small_tab": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"update_check": false,
+	"word_wrap": "false"
+}

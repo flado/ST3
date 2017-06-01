@@ -1,0 +1,30 @@
+{
+	"auto_upgrade": false,
+	"bootstrapped": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"Console Wrap for js",
+		"DocBlockr",
+		"GitGutter-Edge",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"Jade",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"RawLineEdit",
+		"SyncedSideBar",
+		"TrailingSpaces",
+		"TypeScript",
+		"URLEncode",
+		"zz File Icons"
+	]
+}
